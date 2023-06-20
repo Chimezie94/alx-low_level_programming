@@ -3,10 +3,9 @@
 #include <stdio.h>
 /**
  *main -  Entry point
- * Return: Eachtime 0 (Success)
+ * Return: Eachtime 0(Success)
  */
 int main(void)
-
 {
 int n;
 
