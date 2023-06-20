@@ -3,13 +3,16 @@
 #include <stdio.h>
 
 /**
- * Entry - point
+ *main -  Entry point
  * Return: Eachtime 0 (Success)
  */
 int main(void)
+
 {
 	int n;
+
 	int a;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	a = n % 10;
