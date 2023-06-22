@@ -10,8 +10,8 @@ g = 'a';
 while
 (g <= 'z') {
 if
-(g != 'q' && g != 'e') && (g <= 'z')
-putchar(g)
+((g != 'q' && g != 'e') && (g <= 'z'))
+putchar(g);
 	g++;
 }
 putchar('\n');
