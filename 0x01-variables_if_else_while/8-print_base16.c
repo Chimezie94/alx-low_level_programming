@@ -11,10 +11,10 @@ x = 'a';
 y = '0';
 while (y < 10)
 {
-putchar(y + '0')
+putchar(y + '0');
 y++;
 }
-while (x <= f)
+while (x <= 'f')
 {
 putchar(x);
 x++;
