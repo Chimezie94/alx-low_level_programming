@@ -7,8 +7,8 @@ int main(void)
 {
 char e;
 char f;
-e = 'a'
-f = 'A'
+e = 'a';
+f = 'A';
 while (e <= 'z')
 {
 putchar (e);
