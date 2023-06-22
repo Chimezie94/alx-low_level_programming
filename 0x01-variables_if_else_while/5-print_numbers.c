@@ -5,13 +5,13 @@
  */
 int main(void)
 {
-int i;
-if
-(i = 0);
+int a = 0;
 while
 (i < 10);
-i++;
+{
 printf("%d", i);
+i++;
+}
 putchar('\n');
 return (0);
 }
