@@ -23,7 +23,7 @@ printf("%s\n", tab[i]);
 int main(void)
 {
 char **tab;
-tab = strtow("      ALX School         #cisfun      ");
+tab = strtow("     ALX School         #cisfun      ");
 if (tab == NULL)
 {
 printf("Failed\n");
