@@ -19,6 +19,7 @@ i++;
 }
 return (1);
 }
+
 /**
  * _strlen - returns the length of a string
  * @s: string to evaluate
@@ -29,6 +30,7 @@ int _strlen(char *s)
 {
 int i = 0;
 while (s[i] != '\0')
+{
 i++;
 }
 return (i);
@@ -41,6 +43,7 @@ void errors(void)
 printf("Error\n");
 exit(98);
 }
+
 /**
  * main - multiplies two positive numbers
  * @argc: number of arguments
