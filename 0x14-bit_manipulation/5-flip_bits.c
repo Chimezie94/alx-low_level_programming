@@ -3,7 +3,7 @@
  * flip_bits - this funct counts the number of bits to change
  * to get from one number to another
  * @n1: is the first number
- * @m2: is the second number
+ * @m1: is the second number
  *
  * Return: number of bits to change
  */
